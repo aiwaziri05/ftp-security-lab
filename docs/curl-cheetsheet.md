@@ -1,0 +1,4 @@
+-o NAME save the response under a choosen name
+-O Save under the name the server uses
+-s silent: hide the progress meter
+-S with -s, still show the errors (use -sS together)
